@@ -1,0 +1,14 @@
+# Python Virtual Environments
+venv/
+env/
+
+# Python Cache Files
+__pycache__/
+*.pyc
+
+# Sensitive Local Data (CRITICAL)
+patient_database.json
+
+# Mac/Windows System Files
+.DS_Store
+Thumbs.db
